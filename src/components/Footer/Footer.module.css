@@ -1,0 +1,10 @@
+footer {
+    height: 25vh;
+    background-color: beige;
+}
+
+.footer_title {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 2em;
+}
