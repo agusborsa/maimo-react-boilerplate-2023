@@ -1,0 +1,19 @@
+.hero {
+    background: url('/public/assets/img/hero-img.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero_cafe{
+    color: #231100;
+}
+
+.hero_lovers{
+    font-family: "Geometria";
+    color: #b25600;
+}
